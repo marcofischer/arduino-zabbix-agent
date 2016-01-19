@@ -1,6 +1,8 @@
 # arduino-zabbix-agent
 Zabbix Agent built with Arduino and Ethernet Shield
 
+![Image of parts](https://raw.githubusercontent.com/marcofischer/arduino-zabbix-agent/master/images/parts.jpg)
+
 ## Parts list
 
 * Arduino Uno R3
@@ -13,3 +15,7 @@ Zabbix Agent built with Arduino and Ethernet Shield
 * some STP wire
 * punch down tool
 * 3D printer of your choice  with 20 meters of PLA filament
+
+![Image of 3d printed case](https://raw.githubusercontent.com/marcofischer/arduino-zabbix-agent/master/images/case.jpg)
+
+![Image of sensor](https://raw.githubusercontent.com/marcofischer/arduino-zabbix-agent/master/images/sensor.jpg)
